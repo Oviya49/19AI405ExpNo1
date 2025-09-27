@@ -86,6 +86,8 @@ agent.run(steps=6)  # Run for 6 cycles
 ## Output
 <img width="1211" height="966" alt="Screenshot 2025-09-09 133721" src="https://github.com/user-attachments/assets/16e8f7e5-fd7a-42ae-8de7-a272bc578a4b" />
 
+
+
 <img width="789" height="488" alt="image" src="https://github.com/user-attachments/assets/921001bf-dd30-4404-8062-c5fdf8bd8f8e" />
 
 
